@@ -1,4 +1,8 @@
-# Stock-Market-Data-Analysis-using-Big-Data-Techniques-
- work was done in this project to create a real environment  on two servers for the Syrian Private University to work on  analyzing data in the stock market, where the Hadoop environment  and many big data technologies such as Hive and Power BI were  installed, and the analysis was also focused on the Nifty 100 index.
-This index provides a comprehensive view of the Indian stock market, includes companies from various sectors, and is widely used by investors and fund managers as a standard for evaluating market performance and building investment portfolios. 
-Therefore, a number of dashboards have been created in order to help investors find the best vision to help them evaluate and manage risks, which allows mitigating potential financial losses, in addition to explaining the benefits of using big data systems.
+# Stock-Market-Data-Analysis-using-Big-Data-Techniques
+In this project, we worked on building a huge data system to solve recurring problems related to data (volume - diversity - speed) by applying big data techniques using the Hadoop program on a real structure on two servers for the Syrian Private University to work on analyzing data in the stock market in order to conduct many... Analytics that cannot occur in traditional ways of working
+
+In addition, the project seeks to create an environment for future projects related to big data to work on servers, starting from installing the operating system on them, to installing the Hadoop architecture, and from there to installing the Hive and Superset architecture in order to carry out analysis operations and build the data warehouse.
+
+Then work was done on the Nifty 100 index, as this index provides a comprehensive view of the Indian stock market, includes companies from various sectors, and is widely used by investors and fund managers as a standard for evaluating market performance and building investment portfolios. In order to test the system on large real data, where The data that was worked on contains approximately 70 million lines, which gives an overview of the system’s ability to work on applying useful analyzes for companies without the need to purchase expensive hardware.
+
+Therefore, a number of dashboards have been created to help investors find the best insight to help them evaluate and manage risks, allowing to mitigate potential financial losses, in addition to explaining the benefits of using big data systems.
