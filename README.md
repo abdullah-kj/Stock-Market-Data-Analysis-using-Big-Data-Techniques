@@ -1,2 +1,4 @@
 # Stock-Market-Data-Analysis-using-Big-Data-Techniques-
  work was done in this project to create a real environment  on two servers for the Syrian Private University to work on  analyzing data in the stock market, where the Hadoop environment  and many big data technologies such as Hive and Power BI were  installed, and the analysis was also focused on the Nifty 100 index.
+This index provides a comprehensive view of the Indian stock market, includes companies from various sectors, and is widely used by investors and fund managers as a standard for evaluating market performance and building investment portfolios. 
+Therefore, a number of dashboards have been created in order to help investors find the best vision to help them evaluate and manage risks, which allows mitigating potential financial losses, in addition to explaining the benefits of using big data systems.
